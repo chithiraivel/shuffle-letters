@@ -1,0 +1,69 @@
+body{
+    margin-top: 100px;
+    margin-left: 300px;
+    background-color: rgb(126, 126, 194);
+}
+
+.circle{
+    border: 1px solid;
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    position: relative;
+    background-color: rgb(148, 74, 126);
+}
+#one{
+
+    position: absolute;
+    left: 138px;
+    font-size: 30px;
+}
+#one1{
+
+    position: absolute;
+    left: 218px;
+    top: 20px;
+    font-size: 30px;
+}
+#one2{
+
+    position: absolute;
+    left: 58px;
+    top: 20px;
+    font-size: 30px;
+}
+#two{
+    position: absolute;
+    top: 100px;
+    left: 250px;
+    font-size: 30px;
+}
+#three{
+    position: absolute;
+    top: 100px;
+    left: 25px;
+    font-size: 30px;
+}
+#four{
+    position: absolute;
+    top: 220px;
+    left: 138px;
+    font-size: 30px;
+}
+#five{
+    position: absolute;
+    top: 170px;
+    left: 58px;
+    font-size: 30px;
+}
+#six{
+    position: absolute;
+    top: 170px;
+    left: 218px;
+    font-size: 30px;
+}
+#btn{
+    position: absolute;
+    top: 150px;
+    left:133px;
+}
