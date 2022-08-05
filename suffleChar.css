@@ -4,6 +4,26 @@ body{
     background-color: rgb(126, 126, 194);
 }
 
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.child{
+    border: 1px solid;
+    width: 400px;
+    text-align: center;
+    box-shadow: 2px 3px 28px yellow;
+    border-radius: 30px;
+}
+
+.lab{
+  margin-top: 70px;
+  margin-left: 670px;
+   
+}
+#show{
+    text-transform: uppercase;
+}
 .circle{
     border: 1px solid;
     height: 300px;
@@ -11,6 +31,12 @@ body{
     border-radius: 200px;
     position: relative;
     background-color: rgb(148, 74, 126);
+    box-shadow: 2px 1px 18px green;
+    border-radius: 30px;
+}
+.try{
+    margin-top: 100px;
+    margin-left: 200px;
 }
 #one{
 
